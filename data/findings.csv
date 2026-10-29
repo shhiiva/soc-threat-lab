@@ -1,0 +1,3 @@
+phase,host,port,service,cve,cvss,exposed,cti_relevant
+before,192.168.56.102,22,OpenSSH 9.6p1 (password auth enabled),CONFIG-PASSWORD-AUTH,5,1,1
+after,192.168.56.102,22,OpenSSH 9.6p1 (password auth disabled),CONFIG-PASSWORD-AUTH,5,0,0

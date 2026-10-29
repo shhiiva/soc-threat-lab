@@ -1,0 +1,5 @@
+﻿db/
+__pycache__/
+*.pyc
+data/auth-before.log
+data/auth-after.log
